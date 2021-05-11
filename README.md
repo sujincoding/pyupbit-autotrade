@@ -1,7 +1,7 @@
 # pyupbit-autotrade
 코인 자동 매매 프로그램
-#cf) 유튜브 조코딩 채널 
-pyupbit 라이브러리를 활용하여 upbit 거래소에서 비트코인 자동매매를 하는 코드입니다.
+cf) 유튜브 조코딩 채널 
+ pyupbit 라이브러리를 활용하여 upbit 거래소에서 비트코인 자동매매를 하는 코드입니다.
 파일 구성
 test.py : 잔고 조회 (1강)
 backtest.py : 백테스팅 코드 (2강)
