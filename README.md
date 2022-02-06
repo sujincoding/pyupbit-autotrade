@@ -1,7 +1,9 @@
-# 코인 자동 매매 프로그램 
-> ### pyupbit 라이브러리를 활용하여 upbit 거래소에서 비트코인 자동매매를 하는 프로그램     
+# 1. 코인 자동 매매 프로그램 
 
-### Project 구성  
+## 1.1 프로그램 소개   
+ pyupbit 라이브러리를 활용하여 upbit 거래소에서 비트코인 자동매매를 하는 프로그램     
+
+## 1.2 Project 구성  
 * test.py : 잔고 조회    
 * backtest.py : 백테스팅 코드    
 * bestK.py : 가장 좋은 k 값을 찾는 코드   
@@ -10,8 +12,9 @@
 * bitcoinAutoTradeWithSlack.py : 위 코드에 슬랙 붙여 놓은 것   
 
 
-위 코드는 "파이썬을 이용한 비트코인 자동매매 (개정판)" 및 "유튜브 조코딩 채널"을 참고하여 제작되었습니다.   
-강의 보러가기: https://youtube.com/playlist?list=PLU9-uwewPMe3KKFMiIm41D5Nzx_fx2PUJ   
+## 1.3 참고 문헌
+위 코드는 "파이썬을 이용한 비트코인 자동매매 (개정판)" 및 "유튜브 조코딩 채널"을 참고하여 제작   
+참고 유튜브 채널: https://youtube.com/playlist?list=PLU9-uwewPMe3KKFMiIm41D5Nzx_fx2PUJ   
 참고 문헌: https://wikidocs.net/book/1665   
 
 ---------
