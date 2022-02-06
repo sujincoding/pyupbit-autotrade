@@ -16,7 +16,12 @@
   * VSCode 에 설치한 파이썬 환경 설정   
   * Pyupbit 라이브러리 다운로드 및 임폴트
 * ### Slack 연동
-* ### 클라우드 서버 연동 및 실행
+  * Slack 가입 및 워크스페이트 생성
+  * Slack 봇 생성
+    + Slack API 사이트 > Start Building > 워크스페이트 지정 > OAuth Token 설정
+  * Slack에서 앱(봇) 추가
+  * VSCode에서 slacker 설치 및 메시지 전송 코드 구현
+* ### 클라우드 서버 연동 및 프로그램 실행
   * AWS 가입 및 Ubuntu 서버 생성   
     + AWS 프리 티어 사이트 > AWS 서비스 > EC2 > 인스턴스 > 인턴스 시작 > Ubuntu Server 사용 > 키 페어 생성(서버에 접속하는 키)
   * UPbit 사이트 Open API 관리에서 Ubuntu 서버 추가
